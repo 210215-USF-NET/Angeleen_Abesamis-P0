@@ -6,23 +6,23 @@
 
 # Functionality:
 
-add a new customer
+add a new customer --DONE
 
-search customers by name
+search customers by name --DONE
+ 
+display details of an order --DONE
 
-display details of an order
+place orders to store locations for customers --DONE
 
-place orders to store locations for customers
-
-view order history of customer
+view order history of customer --DONE
 
 view order history of location
 
 view location inventory
 
-The customer should be able to purchase multiple products
+The customer should be able to purchase multiple products --DONE
 
-Order histories should have the option to be sorted by date (latest to oldest and vice versa) or cost (least expensive to most expensive)
+Order histories should have the option to be sorted by date (latest to oldest and vice versa) or cost (least expensive to most expensive) --DONE
 
 The manager should be able to replenish inventory
 
@@ -38,31 +38,31 @@ Product
 Note: add as much models as you would need for your design
 
 # Additional requirements:
-Exception Handling
+Exception Handling --DONE
 
-Input validation
+Input validation --DONE
 
-Logging
+Logging --DONE
 
 At least 10 unit tests
 
 Data should be persisted, (no data should be hard coded)
 
-You should use SQLServer DB
+You should use SQLServer DB --DONE
 
-DB structure should be 3NF
+DB structure should be 3NF --DONE
 
-Should have an ER Diagram
+Should have an ER Diagram --DONE
 
 Code should have xml documentation
 
 # Tech Stack:
-C#
+C# --DONE
 
-SQLServer DB
+SQLServer DB --DONE
 
-EF Core
+EF Core --DONE
 
-Xunit
+Xunit 
 
-Serilog or Nlog
+Serilog or Nlog --DONE
